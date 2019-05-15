@@ -63,7 +63,7 @@ class App extends Component {
     });
     return (
       <section className="App">
-        <h2>Add Courses</h2>
+        <h2>Courses App</h2>
         <CourseForm
           updateCourse={this.updateCourse}
           addCourse={this.addCourse}

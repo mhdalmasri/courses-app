@@ -10,7 +10,7 @@ a React-App to add, edite and delete Courses from a list
 npm i
 ```
 
-And repeat
+Then
 
 ```
 npm start

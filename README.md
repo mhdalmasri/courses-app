@@ -2,6 +2,7 @@
 
 a React-App to add, edite and delete Courses from a list 
 
+![alt text](https://github.com/mhdalmasri/courses-app/blob/master/Courses_App.png)
 
 ## Installing
 

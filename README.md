@@ -17,9 +17,9 @@ npm start
 
 ## Built With
 
-*HTML
-*CSS 
-*React 
+* HTML
+* CSS 
+* React 
 
 ## Authors
 

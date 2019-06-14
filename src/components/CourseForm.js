@@ -8,6 +8,7 @@ export default function CourseForm(props) {
           type="text"
           onChange={props.updateCourse}
           value={props.current}
+          placeholder="add new course"
         />
         <button type="submit">Add</button>
       </form>
